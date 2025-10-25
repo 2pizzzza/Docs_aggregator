@@ -39,12 +39,14 @@ Das ist der interessanteste Teil! Wenn auf der Produktseite ein Foto eines Model
 **Wie es geht:**
 1.  Installieren Sie unsere Browser-Erweiterung für Chrome.
 2.  Klicken Sie auf der Produktseite mit dem Model auf das Erweiterungssymbol.
-3.  Klicken Sie auf die Schaltfläche "Swap Faces".
+3.  Muessen Sie ein Foto hochladen,dann klicken Sie auf die Schaltfläche "Gesichter tauchen".
 4.  Nach einige Sekunden wird das Gesicht des Models auf dem Foto durch Ihr eigenes ersetzt, und Sie können besser beurteilen, ob das Produkt zu Ihnen passt.
 
 <p float="left">
-  <img src="img/baitFrom1.png" width="300"/>
-  <img src="img/baitTo.png" width="300"/>
+  <img src="img/s1.png" width="500"/>
+  <img src="img/s2.png" width="500"/>
+  <img src="img/s3.png" width="500"/>
+<img src="img/s4.png" width="500"/>
 </p>
 ## Fazit
 
