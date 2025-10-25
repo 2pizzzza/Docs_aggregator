@@ -43,10 +43,10 @@ Das ist der interessanteste Teil! Wenn auf der Produktseite ein Foto eines Model
 4.  Nach einige Sekunden wird das Gesicht des Models auf dem Foto durch Ihr eigenes ersetzt, und Sie können besser beurteilen, ob das Produkt zu Ihnen passt.
 
 <p float="left">
-  <img src="img/s1.png" width="500"/>
+  <img src="img/s1.png" width="600"/>
   <img src="img/s2.png" width="500"/>
   <img src="img/s3.png" width="500"/>
-<img src="img/s4.png" width="500"/>
+<img src="img/s4.png" width="600"/>
 </p>
 ## Fazit
 
