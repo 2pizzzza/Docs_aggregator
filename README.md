@@ -33,16 +33,19 @@ Das ist der interessanteste Teil! Wenn auf der Produktseite ein Foto eines Model
 
 <p float="left">
   <img src="img/baitTo.jpg" width="200" />
-  <img src="img/baitFrom.jpg" width="200" />
+  <img src="img/baitFrom.png" width="200" />
 </p>
 
 **Wie es geht:**
 1.  Installieren Sie unsere Browser-Erweiterung für Chrome.
 2.  Klicken Sie auf der Produktseite mit dem Model auf das Erweiterungssymbol.
 3.  Klicken Sie auf die Schaltfläche "Swap Faces".
-4.  Nach wenigen Sekunden wird das Gesicht des Models auf dem Foto durch Ihr eigenes ersetzt, und Sie können besser beurteilen, ob das Produkt zu Ihnen passt.
+4.  Nach einige Sekunden wird das Gesicht des Models auf dem Foto durch Ihr eigenes ersetzt, und Sie können besser beurteilen, ob das Produkt zu Ihnen passt.
 
-![baitFrom](img/baitFrom1.png) ![baitTo](img/baitTo.png)
+<p float="left">
+  <img src="img/baitFrom1.png" width="300"/>
+  <img src="img/baitTo.png" width="300"/>
+</p>
 ## Fazit
 
 Unsere Anwendung macht Online-Shopping nicht nur günstiger, sondern auch persönlicher. Sparen Sie Geld durch Preisvergleiche und haben Sie mehr Spaß beim Einkaufen mit der virtuellen Anprobefunktion.
