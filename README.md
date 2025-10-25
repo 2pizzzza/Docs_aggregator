@@ -42,12 +42,12 @@ Das ist der interessanteste Teil! Wenn auf der Produktseite ein Foto eines Model
 3.  Muessen Sie ein Foto hochladen,dann klicken Sie auf die Schaltfläche "Gesichter tauchen".
 4.  Nach einige Sekunden wird das Gesicht des Models auf dem Foto durch Ihr eigenes ersetzt, und Sie können besser beurteilen, ob das Produkt zu Ihnen passt.
 
-<p float="left">
-  <img src="img/s1.png" width="600"/>
-  <img src="img/s3.png" width="500"/>
-  <img src="img/s2.png" width="500"/>
+
+<img src="img/s1.png" width="600"/>
+<img src="img/s3.png" width="500"/>
+<img src="img/s2.png" width="500"/>
 <img src="img/s4.png" width="600"/>
-</p>
+
 ## Fazit
 
 Unsere Anwendung macht Online-Shopping nicht nur günstiger, sondern auch persönlicher. Sparen Sie Geld durch Preisvergleiche und haben Sie mehr Spaß beim Einkaufen mit der virtuellen Anprobefunktion.
