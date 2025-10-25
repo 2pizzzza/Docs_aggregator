@@ -23,11 +23,10 @@ Alles beginnt auf der Hauptseite. Geben Sie den Namen des gesuchten Produkts in 
 
 Nachdem Sie Ihre Suchanfrage eingegeben haben, zeigt Ihnen das System alle verfügbaren Optionen an. Sie sehen eine nach Preis sortierte Liste von Produkten, die es Ihnen leicht macht, das beste Angebot zu finden.
 
+![Produktkarte](img/card.jpg)
 ### Schritt 3: Zum Shop gehen
 
 Wenn Sie ein Produkt gefunden haben, das Sie interessiert, klicken Sie einfach darauf. Sie werden auf die Produktseite im ursprünglichen Online-Shop weitergeleitet, wo Sie den Kauf tätigen können.
-
-![Produktkarte](img/card.jpg)
 
 ### Schritt 4: Virtuelle Anprobe (FaceWapper)
 
