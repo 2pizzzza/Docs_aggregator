@@ -31,12 +31,14 @@ Wenn Sie ein Produkt gefunden haben, das Sie interessiert, klicken Sie einfach d
 
 Das ist der interessanteste Teil! Wenn auf der Produktseite ein Foto eines Models zu sehen ist, können Sie unsere Browser-Erweiterung **FaceWapper** verwenden, um dessen Gesicht durch Ihr eigenes zu ersetzen.
 
+![baitFrom](img/baitTo.jpg) ![baitTo](img/baitFrom.jpg)
 **Wie es geht:**
 1.  Installieren Sie unsere Browser-Erweiterung für Chrome.
 2.  Klicken Sie auf der Produktseite mit dem Model auf das Erweiterungssymbol.
 3.  Klicken Sie auf die Schaltfläche "Swap Faces".
 4.  Nach wenigen Sekunden wird das Gesicht des Models auf dem Foto durch Ihr eigenes ersetzt, und Sie können besser beurteilen, ob das Produkt zu Ihnen passt.
 
+![baitFrom](img/baitFrom1.png) ![baitTo](img/baitTo.png)
 ## Fazit
 
 Unsere Anwendung macht Online-Shopping nicht nur günstiger, sondern auch persönlicher. Sparen Sie Geld durch Preisvergleiche und haben Sie mehr Spaß beim Einkaufen mit der virtuellen Anprobefunktion.
