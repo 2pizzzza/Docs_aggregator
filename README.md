@@ -6,13 +6,12 @@ Dieses Handbuch hilft Ihnen zu verstehen, wie Sie unsere Anwendung nutzen könne
 
 Unsere Anwendung ist ein Preisaggregator, der Ihnen hilft, die besten Angebote für Produkte in verschiedenen Online-Shops zu finden. Aber das ist noch nicht alles! Mit unserer Browser-Erweiterung können Sie Kleidung "anprobieren", indem Sie das Gesicht des Models durch Ihr eigenes ersetzen, um sich besser vorstellen zu können, wie das Produkt an Ihnen aussehen wird.
 
-![Hauptseite](img/home.jpg)
-
 ## Wie es funktioniert: 4 einfache Schritte
 
 ### Schritt 1: Produktsuche
 
 Alles beginnt auf der Hauptseite. Geben Sie den Namen des gesuchten Produkts in die Suchleiste ein. Sie können auch Filter verwenden, um Ihre Suche zu verfeinern nach:
+![Hauptseite](img/home.jpg)
 *   **Preis:** Geben Sie einen Mindest- und Höchstpreis an.
 *   **Kategorie:** Wählen Sie eine Produktkategorie (z. B. "T-Shirts", "Jeans").
 *   **Und anderen Parametern.**
