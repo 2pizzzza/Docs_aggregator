@@ -37,7 +37,7 @@ Das ist der interessanteste Teil! Wenn auf der Produktseite ein Foto eines Model
 </p>
 
 **Wie es geht:**
-1.  <a id="my-point">Installieren</a> Sie unsere Browser-Erweiterung für Chrome.
+1.  [Installieren](#my-point) Sie unsere Browser-Erweiterung für Chrome.
 2.  Klicken Sie auf der Produktseite mit dem Model auf das Erweiterungssymbol.
 3.  Muessen Sie ein Foto hochladen,dann klicken Sie auf die Schaltfläche "Gesichter tauchen".
 4.  Nach einige Sekunden wird das Gesicht des Models auf dem Foto durch Ihr eigenes ersetzt, und Sie können besser beurteilen, ob das Produkt zu Ihnen passt.
@@ -53,7 +53,7 @@ Das ist der interessanteste Teil! Wenn auf der Produktseite ein Foto eines Model
 
 Unsere Anwendung macht Online-Shopping nicht nur günstiger, sondern auch persönlicher. Sparen Sie Geld durch Preisvergleiche und haben Sie mehr Spaß beim Einkaufen mit der virtuellen Anprobefunktion.
 
-## [Projekt-Links](#my-point)
+## <a id="my-point">Projekt-Links</a>
 
 *   **Frontend:** [https://github.com/BreadlyDev/hackathon-aggregator](https://github.com/BreadlyDev/hackathon-aggregator)
 *   **Backend:** [https://github.com/tashbaevb/Aggregator_LNDC](https://github.com/tashbaevb/Aggregator_LNDC)
