@@ -44,8 +44,8 @@ Das ist der interessanteste Teil! Wenn auf der Produktseite ein Foto eines Model
 
 <p float="left">
   <img src="img/s1.png" width="600"/>
-  <img src="img/s2.png" width="500"/>
   <img src="img/s3.png" width="500"/>
+  <img src="img/s2.png" width="500"/>
 <img src="img/s4.png" width="600"/>
 </p>
 ## Fazit
